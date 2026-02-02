@@ -28,8 +28,10 @@
 ---
 
 ## 📊 Stats
-![Iwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwanBrt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwanBrt&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iwanBrt&show_icons=true&theme=tokyonight" alt="Iwan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwanBrt&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ## 💬 Jokes
 > **Q:** What are the three hardest problems in computer science?  
