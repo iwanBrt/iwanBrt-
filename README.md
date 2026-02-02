@@ -21,9 +21,9 @@
 </p>
 
 ## 📌 Projects
-* **Si-Stasuin-Klimatologi-Kelas-1-Sumatera-Utara**: A comprehensive information system built with Laravel and React to manage climatology data.
-* **AplikasiGizi (SADEWA / NusaFit.AI)**: A mobile application project focused on health and nutrition for competitions.
-* **Ilkomweb (Collab)**: A collaborative web project for the Computer Science community.
+* **Si-Stasuin-Klimatologi-Kelas-1-Sumatera-Utara**: Sistem informasi untuk manajemen data klimatologi menggunakan Laravel dan React.
+* **AplikasiGizi (SADEWA / NusaFit.AI)**: Aplikasi mobile untuk kesehatan dan gizi yang dikembangkan untuk kompetisi.
+* **Ilkomweb (Collab)**: Proyek kolaborasi web untuk komunitas Ilmu Komputer.
 
 ---
 
