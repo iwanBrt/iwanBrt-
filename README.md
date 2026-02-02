@@ -1,5 +1,4 @@
-# Hi, I am Iwan! 👋
-*Full Stack Developer | Software Engineer | Mobile Developer*
+# <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FF98&width=435&lines=I+am+Iwan;Full+Stack+Developer;Software+Engineer;Mobile+Developer" alt="Typing SVG" /></a> </p>
 
 ---
 
