@@ -1,37 +1,36 @@
-# <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45FF98&width=435&lines=I+am+Iwan;Full+Stack+Developer;Software+Engineer;Mobile+Developer" alt="Typing SVG" /></a> </p>
+# <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D1FF&width=600&lines=I+am+Iwan+Brt;Full+Stack+Developer;Software+Engineer;Mobile+Developer" alt="Typing SVG" /></a> </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Education**: Computer Science @ Universitas Negeri Medan
-- 💻 **Specialization**: Full Stack Development (Laravel & React)
+- 💻 **Specialization**: Full Stack Development & Mobile App Development
 - 📱 **Mobile Development**: Experience in creating Android applications
-- 🎯 **Current Focus**: Building Climatology Information Systems
+- 🛠️ **Experience**: Focused on building impactful software solutions
 
-## 🛠️ My Tech Stack
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+## 🛠️ Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+## 📌 Projects
+* **Si-Stasuin-Klimatologi-Kelas-1-Sumatera-Utara**: A comprehensive information system built with Laravel and React to manage climatology data.
+* **AplikasiGizi (SADEWA / NusaFit.AI)**: A mobile application project focused on health and nutrition for competitions.
+* **Ilkomweb (Collab)**: A collaborative web project for the Computer Science community.
 
 ---
 
-## 📌 Featured Projects
-- **Sistem Informasi Klimatologi**: Web application built with Laravel and React to manage and visualize weather data.
-- **SADEWA / NusaFit.AI**: A mobile application currently being developed for competition.
-- **Portfolio Website**: Personal landing page with a soft, organic minimalist design.
-
-## 🏆 Experience & Achievements
-- **Coding Instructor**: Experienced in teaching coding fundamentals to beginners.
-
----
-
-## 📊 GitHub Stats
-![Iwan's Stats](https://github-readme-stats.vercel.app/api?username=iwanBrt&show_icons=true&theme=tokyonight)
+## 📊 Stats
+![Iwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwanBrt&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwanBrt&layout=compact&theme=tokyonight)
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iwan-berutu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wann_Brt)
+## 💬 Jokes
+> **Q:** What are the three hardest problems in computer science?  
+> **A:** Naming things and off-by-one errors.
